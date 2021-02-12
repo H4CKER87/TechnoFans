@@ -1,0 +1,58 @@
+* {
+    background: black;
+}
+
+#Edge{
+    color: aqua;
+}
+
+#Nvidia{
+    color: greenyellow;
+}
+
+header{
+    color: beige;
+}
+
+p{
+    color: beige;
+}
+
+header{
+    font-size: large;
+}
+
+p{
+    font-size: larger;
+}
+
+hgroup{
+    font-size: larger;
+}
+
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#Edge, #Nvidia{
+    border: 1px solid burlywood;
+}
+
+ul{
+    color: beige;
+    font-size: larger;
+    text-align: left;
+}
+
+
+.menu li{
+    list-style: none;
+    padding: 5px;
+    border: 1px solid burlywood;
+    display: inline-block;
+    
+}
+
+.menu{
+    padding: 5px 15px;
+}   
